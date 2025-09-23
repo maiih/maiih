@@ -11,8 +11,12 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/maikelen-pasquali-497745382/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/maikelen-pasquali-497745382/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:0;"/>
+  </a>
+
+  <a href="https://maiih.github.io/portfolio/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-512DA8?style=for-the-badge" alt="Portfolio" style="border:0;"/>
   </a>
 </div>
 
