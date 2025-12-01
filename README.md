@@ -53,7 +53,8 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/top-langs?username=maiih&theme=dracula&layout=compact"/>
+  <img src="https://raw.githubusercontent.com/maiih/maiih/main/output/top-langs.svg" />
 </p>
+
 
 
