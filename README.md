@@ -53,8 +53,9 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maiih/maiih/main/output/top-langs.svg" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maiih&layout=compact&langs_count=7&theme=dracula"/>
 </p>
+
 
 
 
